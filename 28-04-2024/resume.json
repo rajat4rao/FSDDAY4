@@ -1,0 +1,103 @@
+{
+  "name": "Rajat.P.Rao",
+  "phone": "+919008765026",
+  "email": "balprao@gmail.com",
+  "skypeId": "live:66b3e690c683bd34",
+  "professionalExperience": [
+    {
+      "company": "Infinite Open Source Solutions, CyberPark, Calicut",
+      "designation": "Software developer (PHP)",
+      "duration": "August 2017 – November 2021 (4 years 3 months)",
+      "responsibilities": [
+        "Infinite Open Source Solutions specializes in MLM (Multi-Level Marketing) software. I have worked in over 60 MLM projects.",
+        "The work included backend programming of softwares, database design and a few related front-end design.",
+        "Have hands-on experience in e-commerce software like Opencart and Magento.",
+        "Freelance work mainly included PHP developer works commonly ecommerce setup, payment processors and API to mobile applications."
+      ]
+    },
+    {
+      "designation": "Freelance developer (PHP)",
+      "startDate": "December 2021"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Aashrayam",
+      "description": "A disaster relief management software which consisted of minimal web interface and an android application. The database design, backend programming, API implementation were entirely handled by me. The application helps to request and allocate resources without any wastage in between different relief camps, NGOs, governmental institutions. This software was requested by the district collector of Kozhikode and had to be completed within a span of three days."
+    },
+    {
+      "name": "Phygicart",
+      "description": "This is a multi-level marketing system running a binary compensation plan on the basis of product purchase. The project is built in Codeigniter framework and has a Opencart store integration. I performed the role of implementing APIs in Opencart for Android & iOS, and also various modules in the Codeigniter framework as per the documentation.",
+      "link": "www.phygicart.com"
+    },
+    {
+      "name": "Amberly Cosmetics",
+      "description": "This is a Norway based multi-level marketing system running a unilevel compensation plan. It is a product-purchase based project. The project is built in Codeigniter framework and has a Magento store integration. I performed the role of implementing the various modules required for integrating the MLM software and Magento software. This was a never before done concept in the company and I was one of the fore-runners of the team.",
+      "link": "www.amberly.no"
+    }
+  ],
+  "freelanceProjects": [
+    {
+      "name": "ITShoper",
+      "description": "A ecommerce store using opencart selling electronics products. Work included setting up the server, setting up the store and multiple client requested modifications.",
+      "link": "https://www.itshoper.com/"
+    },
+    {
+      "name": "Kaapitrails",
+      "description": "A ecommerce store using opencart selling beverage products. Work included setting up the server, setting up the store and multiple client requested modifications.",
+      "link": "https://kaapitrails.com/"
+    }
+  ],
+  "technicalSkills": {
+    "languages": [
+      "PHP",
+      "Javascript",
+      "Ajax",
+      "jQuery",
+      "HTML",
+      "CSS"
+    ],
+    "ides": [
+      "VSCode",
+      "NetBeans",
+      "Sublime"
+    ],
+    "queryLanguageAndTools": [
+      "MySQL",
+      "AWS"
+    ],
+    "operatingSystems": [
+      "Linux",
+      "Windows"
+    ],
+    "frameworks": [
+      "Codeigniter",
+      "Opencart"
+    ],
+    "ecommerce": [
+      "Opencart",
+      "Magento 2"
+    ],
+    "keySkills": [
+      "Strong decisional skills",
+      "Good interpersonal skills",
+      "Forbearing personality",
+      "Leadership quality",
+      "Bug tracing skills"
+    ]
+  },
+  "personalDetails": {
+    "dob": "30-08-1994",
+    "languagesKnown": [
+      "English",
+      "Kannada",
+      "Malayalam",
+      "Hindi",
+      "Tamil"
+    ],
+    "interests": [
+      "Current Affairs",
+      "Reading latest tech articles"
+    ]
+  }
+}
